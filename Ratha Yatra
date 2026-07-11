@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ratha Yatra Festival</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #fff8ed;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(to right, #d35400, #f39c12);
+            color: white;
+            text-align: center;
+            padding: 60px 20px;
+        }
+
+        header h1 {
+            font-size: 48px;
+            margin: 0;
+        }
+
+        header p {
+            font-size: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 30px 20px;
+        }
+
+        h2 {
+            color: #b03a2e;
+        }
+
+        .images {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 30px 0;
+        }
+
+        .images img {
+            width: 100%;
+            max-width: 400px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        }
+
+        .highlight {
+            background-color: #fdebd0;
+            padding: 20px;
+            border-left: 5px solid #e67e22;
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            background-color: #7d3c0c;
+            color: white;
+            padding: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Ratha Yatra</h1>
+    <p>The Festival of Chariots of Lord Jagannath</p>
+</header>
+
+<div class="container">
+
+    <div class="images">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Ratha_Yatra_Puri.jpg" 
+             alt="Ratha Yatra chariots in Puri">
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Jagannath_Ratha_Yatra.jpg" 
+             alt="Jagannath Ratha Yatra festival">
+    </div>
+
+    <h2>What is Ratha Yatra?</h2>
+
+    <p>
+        Ratha Yatra, meaning "Festival of the Chariots", is one of the most famous
+        spiritual and cultural festivals of India. It originates from the holy city
+        of Jagannath Puri in Odisha, where thousands of devotees gather each year
+        to celebrate the journey of Lord Jagannath, Lord Baladeva, and Lady Subhadra.
+    </p>
+
+    <p>
+        During the festival, the beautifully decorated wooden chariots of the
+        deities are pulled by devotees through the streets of Puri. This joyful
+        procession represents the Lord coming out of the temple to bless everyone,
+        regardless of background or social position.
+    </p>
+
+    <div class="highlight">
+        <strong>A Festival of Unity and Devotion</strong>
+        <p>
+            Ratha Yatra brings together people from all walks of life in a spirit
+            of devotion, music, dancing, and celebration. Similar festivals are now
+            celebrated around the world, sharing the message of spiritual harmony
+            and compassion.
+        </p>
+    </div>
+
+    <h2>The Chariots</h2>
+
+    <p>
+        Each year, three magnificent chariots are constructed for Lord Jagannath,
+        Lord Baladeva, and Subhadra. The towering wooden chariots are decorated
+        with colourful fabrics and artistic designs before being pulled through
+        the streets by thousands of devotees.
+    </p>
+
+    <h2>Experience Ratha Yatra</h2>
+
+    <p>
+        Modern Ratha Yatra festivals are held in many cities worldwide, allowing
+        people everywhere to participate in this ancient tradition through
+        chanting, cultural performances, vegetarian feasts, and spiritual
+        celebrations.
+    </p>
+
+</div>
+
+<footer>
+    Ratha Yatra Festival — Celebrating the Journey of Lord Jagannath
+</footer>
+
+</body>
+</html>
